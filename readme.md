@@ -6,10 +6,12 @@
 
 
 ## 标签
-[![数据结构](https://img.shields.io/badge/%23-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-brightgreen)](#数据结构)  [![算法](https://img.shields.io/badge/%23-%E7%AE%97%E6%B3%95-brightgreen)](#算法)
+[![数据结构](https://img.shields.io/badge/%23-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-brightgreen)](#数据结构)
+[![算法](https://img.shields.io/badge/%23-%E7%AE%97%E6%B3%95-brightgreen)](#算法)
+[![Java](https://img.shields.io/badge/%23-Java-brightgreen)](#Java)
 
 ## 最近更新
-1. [如何分析、统计算法的执行效率和资源消耗？](https://github.com/grisse/blog/issues/4) 2019-9-17
+- [如何分析、统计算法的执行效率和资源消耗？](https://github.com/grisse/blog/issues/4) 2019-9-17
 
 ## 历史文章列表
 
@@ -19,3 +21,4 @@
 
 - [如何分析、统计算法的执行效率和资源消耗？](https://github.com/grisse/blog/issues/4) 2019-9-17
 
+#### Java
