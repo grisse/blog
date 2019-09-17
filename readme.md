@@ -1,8 +1,8 @@
 # 葛瑞士的技术博客
 
-这个项目是我的技术博客，使用了 GitHub 的 issues 区域来作为博文发布区。[进入博客](https://github.com/grisse/blog/issues)
+这个项目是我的技术博客，使用了 GitHub 的 issues 区域来作为博文发布区。
 
-[查看所有分类](https://github.com/grisse/blog/projects)
+[[文章列表]](https://github.com/grisse/blog/issues)  [[所有分类]](https://github.com/grisse/blog/projects)
 
 
 ## 标签
